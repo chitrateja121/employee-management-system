@@ -79,20 +79,7 @@ python manage.py runserver
 ```
 http://127.0.0.1:8000/
 
----
 
-### 🟢 Notes
-- Now every step has its own heading  
-- Code blocks open & close correctly  
-- Nothing will merge into the wrong line  
-
-This is **perfect GitHub Markdown formatting** ✅
-
----
-
-If you want, send a screenshot after pasting  
-I’ll verify the final result for you 🙂
-```
 
 
 
