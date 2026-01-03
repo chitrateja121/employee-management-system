@@ -1,0 +1,14 @@
+{% load static %}
+<html>
+<head>
+    <title>Employee Management System</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+<div class="container">
+    <h2>Employee Management System</h2>
+    <hr>
+    {% block content %}{% endblock %}
+</div>
+</body>
+</html>
